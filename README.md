@@ -14,15 +14,15 @@
 How to reach me : shahidblockchaindeveloper@gmail.com
 
 # 💬 Ask me about : 
-##### Blockchain
-##### ERC721
-##### ERC20
-##### ERC1155
-##### Dapps
-##### Defi
-##### Custom SmartContracts
-##### Hardhat
-##### IPFS
+- Blockchain
+- ERC721
+- ERC20
+- ERC1155
+- Dapps
+- Defi
+- Custom SmartContracts
+- Hardhat
+- IPFS
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidniazi/) 
