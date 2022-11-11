@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer...;Software%20Engineer...;&center=true&size=24">
   </a>
 </h3>
-
-
-
 # 💫 About Me:
 🌱 I’m currently working on 
 ### Blockchain Development & Smart Contracts.
@@ -16,11 +13,7 @@ How to reach me : shahidblockchaindeveloper@gmail.com
 # 💬 Ask me about : 
 #### Blockchain,ERC721,ERC20,ERC1155,Dapps,Defi &Custom SmartContracts
 
-
-
 # 🌐 Socials:
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidniazi/) 
 
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FShahidniazi123)](https://twitter.com/Shahidniazi123)
@@ -32,8 +25,6 @@ How to reach me : shahidblockchaindeveloper@gmail.com
 - TypeScript
 - HTML5
 - CSS
-
-
 
 ## 💻 Tools & Frameworks :
 - Hardhat
