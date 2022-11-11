@@ -21,7 +21,6 @@ How to reach me : shahidblockchaindeveloper@gmail.com
 
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FShahidniazi123)](https://twitter.com/Shahidniazi123)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100055741471974)
 # 💻 Tech Stack:
 - Solidity   
 - JavaScript
