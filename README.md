@@ -4,8 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer...;Software%20Engineer...;&center=true&size=24">
   </a>
 </h3>
+
 # 💫 About Me:
+
 🌱 I’m currently working on 
+
 ### Blockchain Development & Smart Contracts.
 
 How to reach me : shahidblockchaindeveloper@gmail.com
