@@ -9,7 +9,7 @@
 
 🌱 I’m currently working on 
 
-### Blockchain Development & Smart Contracts.
+### Blockchain Development & Smart Contracts.Learning Front End Development with React 
 
 How to reach me : shahidblockchaindeveloper@gmail.com
 
