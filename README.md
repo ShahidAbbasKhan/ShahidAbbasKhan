@@ -9,7 +9,8 @@
 
 🌱 I’m currently working on 
 
-### Blockchain Development & Smart Contracts. Now Learning Front End Development with React 
+#### Smart Contracts,ICO Development,NFT Marketplace Development,IDO Development,DAOs Development NFTs, ERC20,ERC1155.
+#### Now Learning Front End Development with React & Next.Js 
 
 How to reach me : shahidblockchaindeveloper@gmail.com
 
