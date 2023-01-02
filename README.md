@@ -9,7 +9,7 @@
 
 🌱 I’m currently working on 
 
-#### Smart Contracts,ICO Development,NFT Marketplace Development,IDO Development,DAOs Development NFTs, ERC20,ERC1155.
+#### Smart Contracts,ICO Development, NFT Marketplace Development, IDO Development, DAOs Development NFTs, ERC20,ERC1155.
 #### Now Learning Front End Development with React & Next.Js 
 
 How to reach me : shahidblockchaindeveloper@gmail.com
@@ -21,6 +21,8 @@ How to reach me : shahidblockchaindeveloper@gmail.com
 - ERC1155
 - Dapps
 - Defi
+- DAOs
+- ICOs
 - Custom SmartContracts
 - Hardhat
 - IPFS
