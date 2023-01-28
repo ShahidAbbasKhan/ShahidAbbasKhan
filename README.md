@@ -10,7 +10,7 @@
 🌱 I’m currently working on 
 
 #### Smart Contracts,ICO Development, NFT Marketplace Development, IDO Development, DAOs Development NFTs, ERC20,ERC1155.
-#### Now Learning Front End Development with React & Next.Js 
+#### Now Learning Front End Development with Next.Js, Tailwind and Chakra UI 
 
 How to reach me : shahidblockchaindeveloper@gmail.com
 
@@ -45,6 +45,7 @@ How to reach me : shahidblockchaindeveloper@gmail.com
 - Web3.js
 - Mocha Chai
 - Canva
+- miro
 - Google Sheet Management
 - Weekdone.com
 
