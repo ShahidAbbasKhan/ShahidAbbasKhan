@@ -9,8 +9,8 @@
 
 🌱 I’m currently working on 
 
-#### Smart Contracts,ICO Development, NFT Marketplace Development, IDO Development, DAOs Development NFTs, ERC20,ERC1155.
-#### Now Learning Front End Development with Next.Js,Tailwind and Chakra UI 
+#### Smart Contracts, ICO Development, NFT Marketplace Development, IDO Development, DAO Development NFTs, ERC20, ERC1155.
+#### Now Learning Front End Development with Next.Js, Tailwind 
 
 How to reach me : shahidblockchaindeveloper@gmail.com
 
@@ -23,6 +23,9 @@ How to reach me : shahidblockchaindeveloper@gmail.com
 - Defi
 - DAOs
 - ICOs
+- Launchpads
+- NFT marketplaces
+- Gamefi
 - Custom SmartContracts
 - Hardhat
 - IPFS
@@ -38,6 +41,7 @@ How to reach me : shahidblockchaindeveloper@gmail.com
 - TypeScript
 - HTML5
 - CSS
+- React.Js
 - Next.Js
 - Tailwind CSS
 
@@ -87,6 +91,7 @@ How to reach me : shahidblockchaindeveloper@gmail.com
 - Dapps Developer
 - NFT Developer
 - Blockchain Developer
+- Ether Js
 ## Author:
 
 - [Shahid Niazi](https://www.linkedin.com/in/shahidniazi/)
